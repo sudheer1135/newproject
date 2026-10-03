@@ -63,7 +63,7 @@
         function showMessage() {
             document.getElementById("message").innerHTML =
                 "Hello! The application is working more and more successfully."
-		"Hello application is new feature is added";
+		"Hello application is new feature is added and subtracted";
         }
     </script>
 
