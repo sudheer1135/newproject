@@ -50,7 +50,7 @@
     <div class="container">
         <h1>Hello World!</h1>
 
-        <p>Welcome to my simple web mobile banking application.</p>
+        <p>Welcome to my simple web and mobile banking application.</p>
 
         <button onclick="showMessage()">
             Click Me
