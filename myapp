@@ -62,7 +62,7 @@
     <script>
         function showMessage() {
             document.getElementById("message").innerHTML =
-                "Hello! The application is working more successfully.";
+                "Hello! The application is working more and more successfully.";
         }
     </script>
 
